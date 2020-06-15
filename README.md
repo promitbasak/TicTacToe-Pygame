@@ -21,8 +21,7 @@ A Simple TicTacToe game with 4 difficulty levels made with Python and Pygame fro
 At first you need to do this:
 - Youn need python version 3.6+.
 - You need to have `pygame` module installed on python. If you don't, just open the terminal and run the command `pip install pygame`.
-- Download the entire repository as zip and extract it anywhere.
-- Optionally you can Download aal the files excluding `venv.zip`. 
+- Download the entire repository as zip and extract it anywhere. Optionally you can Download all the files excluding `venv.zip`. 
 - If you download `venv.zip`, Extract it in the same folder.
 ### PC:
 - Run the `tictactoe_pygame` with IDLE or any python IDE.
@@ -38,7 +37,7 @@ At first you need to do this:
 
 
 ## Keyboard Controls
-- You can play this only using mouse. Keyboard is an alternative way to play. You can with any of them simulteneously.
+- You can play this game using mouse or Keyboard. You can play with any of them simulteneously.
 - Press any key where the game says "Click Anywhere".
 - Use Number keys (1,2,3,4 etc) to choose the marker or difficulty.
 - Enter any number between 1 to 9 to give your turn. The board behaves like a (3 * 3) grid.
