@@ -50,3 +50,6 @@ At first you need to do this:
 
 ## Bugs
 - In mobile version, the board takes 5-6 seconds to initialize after selecting the difficulty.
+
+
+(c) This game is licensed under MIT License
