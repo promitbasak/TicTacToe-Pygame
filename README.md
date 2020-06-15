@@ -11,6 +11,13 @@ A Simple TicTacToe game with 4 difficulty levels made with Python and Pygame fro
 
 
 ## How to play:
+### Windows: 
+- Download the game https://github.com/promitbasak/TicTacToe-Pygame/releases/download/1.0/TicTacToe.exe
+- Install it. 
+- Open the installation folder.
+- Run tictactoe_pygame.exe
+
+### Play from Source
 At first you need to do this:
 - Youn need python version 3.6+.
 - You need to have `pygame` module installed on python. If you don't, just open the terminal and run the command `pip install pygame`.
