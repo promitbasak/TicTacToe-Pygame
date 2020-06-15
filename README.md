@@ -1,2 +1,37 @@
 # TicTacToe-Pygame
 A Simple TicTacToe game with 4 difficulty levels made with Python and Pygame from scratch with minimum externally achieved code.
+
+## How to play:
+At first you need to do this:
+- Download the entire repository as zip and extract it anywhere.
+- Extract the venv.zip the same folder.
+### PC:
+- Run the `tictactoe_pygame` with IDLE or any python IDE.
+### CLI:
+- Run the `ttt.py` with IDLE or any python IDE.
+### Android:
+- Download Pydroid 3 from Play store.
+- Open the `tictactoe_mobile_1080p.py` with Pydroid 3.
+- It has a bug. Refer to the Bug section.
+- Only works on FHD resolution phone.
+
+## Features:
+- 4 different levels: Easy Medium, Hard, Deadly.  
+- In deadly mode,you cannot beat the computer.  
+- Randomized moves.  
+- Can be played with both keyboard and mouse.  
+- A mobile and a CLI version are also available.  
+
+## Keyboard Controls
+- You can play this only using mouse. Keyboard is an alternative way to play. You can with any of them simulteneously.
+- Press any key where the game says "Click Anywhere".
+- Use Number keys (1,2,3,4 etc) to choose the marker or difficulty.
+- Enter any number between 1 to 9 to give your turn. The board behaves like a (3 * 3) grid.
+
+## Drawbacks
+- Poor Graphics.
+- Poor optimization as I have written almost everything from scratch.
+- Mobile version Code runs on FHD resolution phone only.
+
+## Bugs
+- In mobile version, the board takes 5-6 seconds to initialize after selecting the difficulty.
