@@ -1,6 +1,15 @@
 # TicTacToe-Pygame
 A Simple TicTacToe game with 4 difficulty levels made with Python and Pygame from scratch with minimum externally achieved code.
 
+
+## Features:
+- 4 different levels: Easy Medium, Hard, Deadly.  
+- In deadly mode,you cannot beat the computer.  
+- Randomized moves.  
+- Can be played with both keyboard and mouse.  
+- A mobile and a CLI version are also available.  
+
+
 ## How to play:
 At first you need to do this:
 - Youn need python version 3.6+.
@@ -18,12 +27,8 @@ At first you need to do this:
 - It has a bug. Refer to the Bug section.
 - Only works on FHD resolution phone.
 
-## Features:
-- 4 different levels: Easy Medium, Hard, Deadly.  
-- In deadly mode,you cannot beat the computer.  
-- Randomized moves.  
-- Can be played with both keyboard and mouse.  
-- A mobile and a CLI version are also available.  
+---  
+
 
 ## Keyboard Controls
 - You can play this only using mouse. Keyboard is an alternative way to play. You can with any of them simulteneously.
