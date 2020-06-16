@@ -13,6 +13,7 @@ A Simple TicTacToe game with 4 difficulty levels made with Python and Pygame fro
 ## How to play:
 ### Windows: 
 - Download the game https://github.com/promitbasak/TicTacToe-Pygame/releases/download/1.0/TicTacToe.exe
+- You can also download from SourceForge: https://sourceforge.net/projects/tictactoe-pygame/
 - Install it. 
 - Open the installation folder.
 - Run tictactoe_pygame.exe
@@ -43,8 +44,8 @@ At first you need to do this:
 - Enter any number between 1 to 9 to give your turn. The board behaves like a (3 * 3) grid.
 
 ## Drawbacks
-- Poor Graphics.
-- Poor optimization as I have written almost everything from scratch.
+- Not a great Graphics.
+- Not greatly optimized as I have written almost everything from scratch.
 - Mobile version Code runs on FHD resolution phone only.
 
 ## Bugs
