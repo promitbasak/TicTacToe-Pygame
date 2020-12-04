@@ -1,6 +1,5 @@
 # TicTacToe-Pygame
-A Simple TicTacToe game with 4 difficulty levels made with Python and Pygame from scratch with minimum externally achieved code.
-
+A Simple TicTacToe game that has its own intelligence. Made with Python and Pygame from scratch with minimum external dependence. 
 
 ## Features:
 - 4 different levels: Easy Medium, Hard, Deadly.  
